@@ -32,8 +32,9 @@ This project is a **basic E-Commerce store layout** built with **HTML & CSS**. I
 ## 📸 Screenshots & Video Demonstration  
 
 ### 🖼 Screenshots  
-![Homepage Screenshot](images/screenshot1.jpg)  
-![Product Page Screenshot](images/screenshot2.jpg)  
+![Homepage Screenshot](images/imagesscreenshot1.jpg)  
+![Product Page Screenshot](images/imagesscreenshot2.jpg)  
+ 
  
 
 ### 🎬 Demo Video  
