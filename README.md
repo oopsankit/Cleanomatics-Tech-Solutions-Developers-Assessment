@@ -22,7 +22,7 @@ This project is a **basic E-Commerce store layout** built with **HTML & CSS**. I
 
 ---
 
-##🎮 Usage
+🎮 Usage
 ✅ Search Bar – Type a product name and press enter to search.
 ✅ Clickable Product Cards – Click a category card to go to the product page.
 ✅ Carousel Slider – Click through the featured products.
