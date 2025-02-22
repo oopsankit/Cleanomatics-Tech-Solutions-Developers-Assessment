@@ -30,8 +30,11 @@ This project is a **basic E-Commerce store layout** built with **HTML & CSS**. I
 ---
 
 ## 📸 Screenshots & Video Demonstration  
+
 ### 🖼 Screenshots  
-*(Add your screenshots here)*  
+![Homepage Screenshot](images/screenshot1.jpg)  
+![Product Page Screenshot](images/screenshot2.jpg)  
+ 
 
 ### 🎬 Demo Video  
 🎥 [Click here to watch the video demo] (https://www.behance.net/gallery/219920071/CM-Tech-Solutions-Web-Development-Assessment)
