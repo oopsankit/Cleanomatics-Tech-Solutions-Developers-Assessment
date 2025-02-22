@@ -8,6 +8,12 @@ This project is a **basic E-Commerce store layout** built with **HTML & CSS**. I
 ✅ An **interactive carousel slider** showcasing featured products.  
 
 ---
+# 🚀 **Live Demo**  
+
+Experience the project in action! Click the link below to explore the live version:  
+
+🔗 **[Try the Live Demo Now!](https://67ba15c5b0fccfc0bff0bf4f--cmtech.netlify.app/)**  
+----
 
 ## 🔥 Features Implemented  
 - 🔎 **Search Bar** – Users can search for a sample product.  
