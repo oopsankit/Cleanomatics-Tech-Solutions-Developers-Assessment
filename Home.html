@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic E-Commerce Store</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="header">Upto 50% OFF on <span>Select Services!</span></div>
+    
+    <div class="search-container">
+        <input type="text" id="search-box" placeholder="Search by Services">
+        <button onclick="searchProduct()">
+            <img src="https://cdn-icons-png.flaticon.com/512/622/622669.png" alt="Search Icon">
+        </button>
+    </div>
+    
+    <div class="cards">
+        <div class="card" onclick="goToProductPage()">
+            <img src="/Laundry.jpg" alt="Laundry">
+            Laundry
+        </div>
+        <div class="card" onclick="goToProductPage()">
+            <img src="/Dry Clean.jpg" alt="Dry Clean">
+            Dry Clean
+        </div>
+        <div class="card" onclick="goToProductPage()">
+            <img src="/Upholstery.jpg" alt="Upholstery">
+            Upholstery
+        </div>
+        <div class="card" onclick="goToProductPage()">
+            <img src="/Steam Ironing.jpg" alt="Steam Ironing">
+            Steam Ironing
+        </div>
+        <div class="card" onclick="goToProductPage()">
+            <img src="/Home Cleaning.jpg" alt="Home Cleaning">
+            Home Cleaning
+        </div>
+        <div class="card" onclick="goToProductPage()">
+            <img src="/Products Store.jpg" alt="Products Store">
+            Products Store
+        </div>
+    </div>
+    
+    <div class="hot-deal">Hot Deals</div>
+    <div class="carousel">
+        <img src="https://img.freepik.com/free-vector/laundry-service-sale-banner-template_23-2150929368.jpg?t=st=1740234521~exp=1740238121~hmac=f836328b929bfa51c1d1d8b25969e16598623346259b68019591e00943becb3f&w=1800" onclick="goToProductPage()">
+        <img src="https://img.freepik.com/free-photo/female-colorful-clothing-set-racks-with-shoes-clothing-store-brand-new-modern-boutique_627829-6455.jpg?t=st=1740234401~exp=1740238001~hmac=cc3c5b50c087a66fbbb9921892cbbb7910e144affb75e333d891f7d37ac9e862&w=1380" onclick="goToProductPage()">
+        <img src="https://img.freepik.com/free-vector/laundry-detergent-advertising-poster_1441-899.jpg?t=st=1740233598~exp=1740237198~hmac=f1ac57a1da604a830a69a36a68e6910cb621f9813bf61633c7224c9783ce6937&w=1380" onclick="goToProductPage()">
+        <img src="https://img.freepik.com/free-photo/medicine-uniform-healthcare-medical-workers-day-space-text_185193-108327.jpg?t=st=1740234635~exp=1740238235~hmac=1377ab5ee9636bb294e48f24ff8a3aa0dc9a9c2f09afbc8d891e4294755f4ea0&w=1380" onclick="goToProductPage()">
+    </div>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+    <script src="Script.js"></script>
+</body>
+</html>
